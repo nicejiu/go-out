@@ -1,0 +1,141 @@
+main{
+    width: 100%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 1.14rem;
+    bottom: 1rem;
+    overflow-y: scroll;
+}
+header span{
+    font-size: 0.33rem;
+    color:#fff;
+}
+.banner_imgbox{
+    width: 100%;
+    height: 4.03rem;
+}
+.center{
+    width: 100%;
+    height: 4.6rem;
+    margin-top: 0.06rem;
+    background: #EDEDED;
+    padding:0.09rem 0 0.02rem;
+}
+.item{
+    width: 3.58rem;
+    height: 1.52rem;
+    padding:0 0.24rem  0 0.3rem;
+    background: #fff;
+    float: left;
+    margin-bottom: 0.02rem;
+}
+.item2{
+    margin-left: 0.02rem;
+}
+.item_left{
+    float:left;
+    margin-top: 0.4rem;
+    font-size: 0.2rem;
+    color: #999999;
+}
+.item_left_top{
+    font-size: 0.27rem;
+    margin-bottom: 0.2rem;
+}
+.item_right{
+    margin-top: 0.28rem;
+    float: right;
+    width: 0.95rem;
+    height: 0.95rem;
+}
+.color1{
+    color:#E88F29;
+}
+.color2{
+    color:#FFA319;
+}
+.color3{
+    color:#CE400C;
+}
+.color4{
+    color:#1BA9E1;
+}
+.color5{
+    color:#ED6660;
+}
+.color6{
+    color:#FF8989;
+}
+.bottom{
+    width: 100%;
+    background: #EEEEEE;
+    margin: 0.2rem 0 0.23rem;
+}
+.time{
+    width: 100%;
+    background: #fff;
+    margin-top:0.02rem;
+    overflow: hidden;
+}
+.time_title{
+    width: 2.58rem;
+    height: 0.37rem;
+    margin:0.37rem auto 0;
+    display: flex;
+    justify-content: space-between;
+    line-height: 0.37rem;
+}
+.time_title div{
+    margin-top: 0.16rem;
+    width: 0.29rem;
+    height: 0.04rem;
+    background: #363636;
+}
+.time_title p{
+    font-size: 0.32rem;
+    color:#363636;
+
+}
+.time_title .clock{
+    color:#C47876;
+    font-family: 'iconfont';
+}
+.time_title_foot{
+    width: 100%;
+    margin:0.09rem auto 0;
+    font-size: 0.2rem;
+    color:#999999;
+    text-align: center;
+}
+.time_center{
+    width: 100%;
+    height: 3.36rem;
+    margin-top: 0.41rem;
+}
+.time_item{
+    float: left;
+    margin-left: 0.27rem;
+    font-size: 0.21rem;
+}
+.time_imgbox{
+    width: 1.94rem;
+    height: 1.6rem;
+}
+.item_title{
+    margin-top: 0.74rem;
+    color:#494949;
+}
+.price{
+    margin-top: 0.28rem;
+    color:#FF5F49;
+}
+.time_more{
+    width: 100%;
+    height: 1.02rem;
+    text-align: center;
+    line-height: 1.02rem;
+    font-family: 'iconfont';
+    font-size: 0.22rem;
+    color:#A8A8A8;
+}
